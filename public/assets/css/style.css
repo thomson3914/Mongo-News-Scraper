@@ -1,0 +1,39 @@
+.footer {
+  position: float;
+  left: 0;
+  bottom: 0;
+  color: aqua;
+}
+
+.p {
+  color: aqua;
+}
+
+#hero {
+  background-image: url("../images/hero.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+  max-height: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.display-4 {
+  font-family: 'IBM Plex Serif', serif;
+}
+
+h5 {
+  font-family: 'IBM Plex Serif', serif;
+}
+
+h3 {
+  font-family: 'IBM Plex Serif', serif;
+}
+
+.lead {
+  font-size: 32px;
+}
