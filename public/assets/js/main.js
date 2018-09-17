@@ -10,7 +10,7 @@ $(document).ready(function() {
       success: function(res) {
         if (res) {
           window.location.replace('/scrape');
-          alert('New Articles Scraped')
+          alert('New York Times Articles Scraped')
         }
       },
       error: function(err) {
@@ -48,7 +48,7 @@ $(document).ready(function() {
       success: function(res) {
         if (res) {
           console.log('article saved');
-          alert('This Article is Saved.');
+          alert('This Article is Saved.<br>Go to Saved Articles & Make Notes.');
         }
       },
       error: function(err) {
