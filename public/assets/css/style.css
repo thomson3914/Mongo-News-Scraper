@@ -1,13 +1,10 @@
-.footer {
+/* .footer {
   position: float;
   left: 0;
   bottom: 0;
   color: aqua;
-}
+} */
 
-.p {
-  color: aqua;
-}
 
 #hero {
   background-image: url("../images/hero.jpg");
