@@ -1,8 +1,10 @@
 <div class="container">
+
   <div class="row" id="count">
     <button type="submit" class="btn btn-danger mb-3" id="clear">
       <i class="fa fa-trash-o" aria-hidden="true"></i> Clear Articles</button>
   </div>
+
   <div class="row">
     <div class="card-columns scraped-articles">
       {{#each articles}} {{#unless this.saved}}
@@ -18,4 +20,5 @@
       {{/unless}} {{/each}}
     </div>
   </div>
+
 </div>
