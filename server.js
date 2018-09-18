@@ -9,13 +9,13 @@ const exphbs = require('express-handlebars');
 const mongoose = require('mongoose');
 
 
-// for bodyparser & morgan
+// Use bodyparser & morgan
 app.use(logger('dev'));
 app.use(express.static('public'));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-// for handlebars
+// Set handlebars
 app.engine('handlebars', exphbs({ defaultLayout: 'main' }));
 app.set('view engine', 'handlebars');
 app.set('views', './views');
@@ -45,7 +45,7 @@ mongoose.set('useFindAndModify', false);
 // start server 
 app.listen(PORT, () => {
   console.log(
-    '==> 🌎  Listening on port %s. Visit http://localhost:%s/ in your browser.',
+    '==> 🌎  Listening on Port %s. Visit http://localhost:%s/ in your browser.',
     PORT,
     PORT
   );
