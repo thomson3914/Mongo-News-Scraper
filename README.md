@@ -13,8 +13,8 @@ On the frontend, the app uses `handlebars` for templating each article and `mate
 And for webscraping, the app uses the `request` and `cheerio` node packages. All webscrapping code can be found in the `controllers.js` file.
 
 
-## Cloning down the repo
-If you wish to clone the app down to your local machine...
+## Getting Started
+Clone the app down to your local machine -
   1. Ensure that you have MongoDB set up on your laptop
     * An amazing repo to get you started with that can be found [here](https://github.com/dannyvassallo/mongo_lesson).
   2. Once you are set up, `cd` into this repo and run `npm install`.
