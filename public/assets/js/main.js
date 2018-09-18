@@ -48,7 +48,7 @@ $(document).ready(function() {
       success: function(res) {
         if (res) {
           console.log('article saved');
-          alert('This Article is Saved.<br>Go to Saved Articles & Make Notes.');
+          alert('This Article is Saved. - Go to Saved Articles & Make Notes.');
         }
       },
       error: function(err) {
