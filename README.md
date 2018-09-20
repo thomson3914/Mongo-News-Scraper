@@ -26,20 +26,20 @@ Clone the app down to your local machine -
 ## Screenshots
 Home
 
-  ![Home.html](Screenshot-home.png)
+  ![Home.html](./public/assets/images/Screenshot-home.png)
 
 
 Scraped
 
-  ![Scraped](Screenshot-scraped.png)
+  ![Scraped](./public/assets/images/Screenshot-scraped.png)
 
 Saved
 
-  ![Saved](Screenshot-saved.png)
+  ![Saved](./public/assets/images/Screenshot-saved.png)
 
 Notes
 
-   ![Notes](Screenshot-notes.png)
+   ![Notes](./public/assets/images/Screenshot-notes.png)
    
    
 Please check out the deployed version in Heroku - https://morning-beach-75560.herokuapp.com/
