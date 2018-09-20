@@ -2,7 +2,7 @@
 # :newspaper: Mongo-News-Scraper 
 A `Node.js` &amp; `MongoDB` webapp that web-scrapes news data from [The New York Times](https://www.nytimes.com/) and allows users to save articles and comment about what they have read.
 
-Please check out the deployed version in Heroku [here](#)
+Please check out the deployed version in Heroku - https://morning-beach-75560.herokuapp.com/
 
 
 ## Functionality
@@ -23,4 +23,26 @@ Clone the app down to your local machine -
   5. Navigate to `localhost:3000` in your browser.
 
 
+## Video
+Check Out the Video Run Through -
+https://drive.google.com/file/d/1tl8LftROt9wqM32gOJ0oWKJ0y31oe2xH/view
+
+
+
 ## Screenshots
+Home
+
+  ![Home.html](Screenshot-home.png)
+
+
+Scraped
+
+  ![Scraped](Screenshot-scraped.png)
+
+Saved
+
+  ![Saved](Screenshot-saved.png)
+
+Notes
+
+   ![Notes](Screenshot-notes.png)
