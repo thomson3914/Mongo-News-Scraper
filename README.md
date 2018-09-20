@@ -39,8 +39,7 @@ Saved
 
 Notes
 
-   ![Notes](Screenshot-notes.png
+   ![Notes](Screenshot-notes.png)
    
    
-   
-)Please check out the deployed version in Heroku - https://morning-beach-75560.herokuapp.com/
+Please check out the deployed version in Heroku - https://morning-beach-75560.herokuapp.com/
