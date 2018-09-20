@@ -3,7 +3,7 @@
 A `Node.js` &amp; `MongoDB` webapp that web-scrapes news data from [The New York Times](https://www.nytimes.com/) and allows users to save articles and comment about what they have read.
 
 
-Check Out the Video Run Through - https://drive.google.com/file/d/1tl8LftROt9wqM32gOJ0oWKJ0y31oe2xH/view
+Check Out the Video Run Through - https://drive.google.com/file/d/1Czwv0O-BKV_wiFmODzriLeZMXnfJQ7TM/view
 
 ## Functionality
 On the backend, the app uses `express` to serve routes and `mongoose` to interact with a `MongoDB` database.
